@@ -14,7 +14,7 @@ I specialize in the following areas:
 
 Here are some of the projects I have worked on (from newest to oldest):  
 
-1. **[Besarefe](https://besarefe.vercel.app/)**  
+1. **[Besarfe](https://besarfe.vercel.app/)**  
 2. **[Mana Cutting](https://mana-cutting.vercel.app/)**   
 3. **[Kitchenware Store](https://kitchenware.vercel.app/)**   
 4. **[Coffee Shop](https://coffee-shop-zeta-two.vercel.app)**  
