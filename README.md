@@ -25,7 +25,7 @@ Here are some of the projects I have worked on (from newest to oldest):
 
 You can visit my personal website at: **[CodeVerse](https://codeverse-portfolio.vercel.app)**  
 
-This is an older version of my website. For the latest updates and information, please visit my new site: **[CodeVerse (Old)](https://codeverse-ir.github.io/old-codeverse/)**.
+This is an older version of my website. For the latest updates and information, please visit my new site: **[CodeVerse (Old)](https://mohammad-kabiri.github.io/old-codeverse/)**.
 
 ## Skills  
 
